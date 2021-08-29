@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khushi Orpadia.
-- 👀 I’m interested in beinng a Full Stack Developer.
+- 👀 I’m interested in being a Full Stack Developer.
 - 🌱 I’m currently pursuing Bachelor of Science in Computer Science (B.Sc. CS)
 - 💞️ I’m looking to collaborate on anyone/anything I find myself willing for.
 - 📫 How to reach me - My personal Email - korpadia@gmail.com
